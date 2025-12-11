@@ -14,7 +14,7 @@ INSTRUCTIONS:
 
 <p align="center">
   <!-- Dynamic typing headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00DBDE&center=true&vCenter=true&width=600&lines=Building+impactful+AI+%26+SaaS;Full-stack+%2B+ML+%2B+Robotics;Cloud-ready+systems+at+scale;Shipping+what+matters+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00DBDE&center=true&vCenter=true&width=600&lines=Building+impactful+AI+%26+SaaS;Full-stack+%2B+ML;Cloud-ready+systems+at+scale;Shipping+what+matters+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
