@@ -9,7 +9,7 @@ INSTRUCTIONS:
 
 <p align="center">
   <!-- Neon capsule header (animated) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmed%20Hesham&fontAlign=50&fontAlignY=40&color=0:00DBDE,100:FC00FF&fontColor=ffffff&fontSize=60&desc=Data%20Scientist%20•%20Software%20Engineer%20•%20Robotics&descAlign=50&descAlignY=65" alt="Ahmed Hesham" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmed%20Hesham&fontAlign=50&fontAlignY=40&color=0:00DBDE,100:FC00FF&fontColor=ffffff&fontSize=60&desc=Data%20Scientist%20•%20Software%20Engineer&descAlign=50&descAlignY=65" alt="Ahmed Hesham" />
 </p>
 
 <p align="center">
