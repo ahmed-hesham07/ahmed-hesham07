@@ -86,7 +86,7 @@ times said "almost done"  ████████████  too many
 no pressure. I might be knee-deep in a segfault.
 
 [![Email](https://img.shields.io/badge/email-hello@ahmedseddik.dev-black?style=flat-square)](mailto:hello@ahmedseddik.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-ahmedhesham612006-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmedhesham612006/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ahmedseddik1-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmedseddik1/)
 [![Website](https://img.shields.io/badge/website-ahmedseddik.dev-111111?style=flat-square)](https://www.ahmedseddik.dev)
 
 ---
