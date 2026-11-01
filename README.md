@@ -166,7 +166,8 @@ My range spans **AI/ML pipelines**, **full-stack web platforms**, **desktop clie
 ## 📈 Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed-hesham07&show_icons=true&hide_border=true&bg_color=00000000&title_color=C1440E&icon_color=C1440E&text_color=8B949E&rank_icon=github" />
+  <img width="100%" src="https://ghchart.rshah.org/C1440E/ahmed-hesham07" alt="Contribution graph" />
+  <br><br>
   <img height="165" src="https://streak-stats.demolab.com?user=ahmed-hesham07&hide_border=true&background=00000000&ring=C1440E&fire=C1440E&currStreakLabel=C1440E&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" />
 </div>
 
